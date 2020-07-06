@@ -1,6 +1,5 @@
 # Site settings
 title: Paulius Riauka
-twitter_username: rob_hinds
 name: Paulius Riauka
 
 # Build settings
@@ -9,16 +8,10 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
  - title: GitHub
    url: https://github.com/robhinds
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/paulius-riauka-721004152/
 
 #Any buzzword skills you want to include
 skills:
@@ -34,7 +27,8 @@ skills:
  - Analog design
  - 3D modelling
  - Soldering
- - Oscilloscope debugging, test automation
+ - Oscilloscope debugging
+ - Test automation
  - LaTeX
 
 #Education is required
@@ -99,9 +93,8 @@ stackoverflow:
 
 intro: |
   I am a fresh engineering graduate with passion towards signal processing, embedded real-time systems and consumer electronics.
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
-
+  I value continuous learning 
+  
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>C++</strong>: This programming language has been my first programming tool as well as my generally preferred tool for the past five years. I have used this language to create numerous projects for university related tasks as well as personal projects.<br/><br/>
