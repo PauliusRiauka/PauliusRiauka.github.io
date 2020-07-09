@@ -9,7 +9,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/pauliusriauka
  - title: LinkedIn
    url: https://www.linkedin.com/in/paulius-riauka-721004152/
 
