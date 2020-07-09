@@ -75,7 +75,7 @@ speakerdeck:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - PauliusRiauka/PauliusRiauka.github.io
+ - pauliusriauka/pauliusriauka.github.io
  - PauliusRiauka/attiny85 led PWM clapper
  - robhinds/opinionated-akka-http
  - robhinds/food2vec
