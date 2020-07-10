@@ -44,21 +44,16 @@ roles:
    start: 2019
    end: Ongoing
    description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Runner
+ - title: Newspaper distributor
+   start: 2017
+   end: 2019
+   employer: Forbrug-Kontakt A/S
+   description: A part time study job that introduced me to the basics of Danish tax system.
+- title: Runner
    start: 2019
    end: 2020
    employer: Heidi's Bier Bar Aarhus
    description: A part time study job as well as a hobby. This job enabled me to work on my Danish language skills as well as introduce me to the social work environment.   
- - title: Newspaper distributor
-   start: 2017
-   end: 2019
-   employer: Forbrug-Kontakt A/S
-   description: A part time study job that introduced me to the basics of Danish tax system.
- - title: Newspaper distributor
-   start: 2017
-   end: 2019
-   employer: Forbrug-Kontakt A/S
-   description: A part time study job that introduced me to the basics of Danish tax system.
 
 #List of interesting Github repo/projects to include - optional
 github:
