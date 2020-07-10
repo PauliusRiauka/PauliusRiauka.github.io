@@ -50,16 +50,7 @@ roles:
    end: 2017
    employer: Emerald Street Ventures
    description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Newspaper distributor
-   start: 2017
-   end: 2019
-   employer: Forbrug-Kontakt A/S
-   description: A part time study job that introduced me to the basics of Danish tax system.
-- title: Runner
-   start: 2019
-   end: 2020
-   employer: Heidi's Bier Bar Aarhus
-   description: A part time study job as well as a hobby. This job enabled me to work on my Danish language skills as well as introduce me to the social work environment.   
+
 
 #List of interesting Github repo/projects to include - optional
 github:
