@@ -54,6 +54,11 @@ roles:
    end: 2019
    employer: Forbrug-Kontakt A/S
    description: A part time study job that introduced me to the basics of Danish tax system.
+    - title: Newspaper distributor
+   start: 2017
+   end: 2019
+   employer: Forbrug-Kontakt A/S
+   description: A part time study job that introduced me to the basics of Danish tax system.
 
 #List of interesting Github repo/projects to include - optional
 github:
