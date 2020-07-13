@@ -45,11 +45,11 @@ roles:
    end: 2020
    employer: Heidi's Bier Bar Aarhus
    description: Part-time student job that turned into a hobbie. It introduced me to a social Danish working environment as well as helped me get practice my language skills. 
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+ - title: Newspaper distributor
+   start: 2017
+   end: 2019
+   employer: FK distribution
+   description: This job has introuced me to the Danish tax system as well as work ethics.
 
 
 #List of interesting Github repo/projects to include - optional
