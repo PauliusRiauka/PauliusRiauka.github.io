@@ -50,6 +50,11 @@ roles:
    end: 2019
    employer: FK distribution
    description: This job has introuced me to the Danish tax system as well as work ethics.
+ - title: Newspaper distributor
+   start: 2017
+   end: 2019
+   employer: FK distribution
+   description: This job has introuced me to the Danish tax system as well as work ethics.
 
 
 #List of interesting Github repo/projects to include - optional
