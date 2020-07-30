@@ -61,6 +61,7 @@ roles:
 github:
  - PauliusRiauka/PauliusRiauka.github.io
  - PauliusRiauka/attiny85-led-PWM-clapper
+ - PauliusRiauka/Frequency-based-event-detector
 
 intro: |
   I am a fresh engineering graduate with passion towards signal processing, embedded real-time systems and consumer electronics.
