@@ -75,5 +75,5 @@ additionalinfo: |
    <strong>MATLAB/ Simulink</strong>: These programs have proven to be a very valuable tool to easily asess feasibility of a hypothesis and therefore were used for nearly every university related project throughout my studies. <br/><br/>
    <strong>3D modelling</strong>: This field of technology together with 3D printing has caught my eye as a way to finish up personal electronics projects with casing. I plan to further exapnd my knowledge in this field to explore the capabilities of my creativity.<br/><br/>
    <strong>Development Control</strong>: I have the basic knowledge of application life-cycle management and have worked with Git.<br/><br/>
-   Currently I am learning how to operate microcontrollers other than Atmel, android app development, expanding my circuit design and soldering skills.
+   Currently I am learning how to operate various Atmel microcontrollers though AVR ISP mkii programmer using Atmel Studio, android app development, expanding my circuit design and soldering skills.
 theme: jekyll-theme-slate
