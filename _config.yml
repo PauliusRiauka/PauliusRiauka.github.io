@@ -60,7 +60,7 @@ roles:
 #List of interesting Github repo/projects to include - optional
 github:
  - PauliusRiauka/PauliusRiauka.github.io
- - PauliusRiauka/attiny85-led-PWM-clapper
+ - PauliusRiauka/attiny85-lighting-system
  - PauliusRiauka/Frequency-based-event-detector
 
 intro: |
